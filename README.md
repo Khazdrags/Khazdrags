@@ -4,7 +4,7 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://discord.com/users/555849474115895326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khazdrags" height="40" width="40" /></a>
+<a href="https://discord.com/users/555849474115895326" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="arduino" width="40" height="40"/></a>
 </p>
 
 # 💻 Languages and Tools:
